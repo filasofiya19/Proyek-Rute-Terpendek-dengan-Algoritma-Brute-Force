@@ -36,17 +36,17 @@ Untuk detail jaraknya yaitu:
     [13.5, 13.7, 14.8, 2.5, 13.5, 25.5, 13.5, 24.5, 24.4, 0],
 
 
-**Kesimpulanya**
-Detail jarak (Km) titik satu ke titik lainnya:
-Dari 2 Ke 1, Jarak: 3 Km
-Dari 1 Ke 0, Jarak: 0.15 Km
-Dari 0 Ke 6, Jarak: 0.064 Km
-Dari 6 Ke 4, Jarak: 2.5 Km
-Dari 4 Ke 3, Jarak: 11.4 Km
-Dari 3 Ke 9, Jarak: 2.1 Km
-Dari 9 Ke 7, Jarak: 24.5 Km
+**Kesimpulanya**<br>
+Detail jarak (Km) titik satu ke titik lainnya:<br>
+Dari 2 Ke 1, Jarak: 3 Km<br>
+Dari 1 Ke 0, Jarak: 0.15 Km<br>
+Dari 0 Ke 6, Jarak: 0.064 Km<br>
+Dari 6 Ke 4, Jarak: 2.5 Km<br>
+Dari 4 Ke 3, Jarak: 11.4 Km<br>
+Dari 3 Ke 9, Jarak: 2.1 Km<br>
+Dari 9 Ke 7, Jarak: 24.5 Km<br>
 Dari 7 Ke 8, Jarak: 1 Km
-Dari 8 Ke 5, Jarak: 12.8 Km
+Dari 8 Ke 5, Jarak: 12.8 Km<br>
 
 Rute Terpendek:
 2 -> 1 -> 0 -> 6 -> 4 -> 3 -> 9 -> 7 -> 8 -> 5
